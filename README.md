@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/101452094/191329036-7e51146a-8efe-4cfc-a5ba-2642af346fbb.png)
+
+
 # 0x1D. C - Binary trees
 In this project, I learnt:
 - What is a binary tree
